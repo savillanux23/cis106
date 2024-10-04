@@ -1,5 +1,5 @@
 ---
-Student: your name
+Student: Alessandro Villarreal
 semester: Spring 24
 Assignment: Lab 3
 ---
