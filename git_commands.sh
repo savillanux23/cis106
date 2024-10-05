@@ -2,6 +2,5 @@
 cd ~/cis106
 git pull
 git add .
-git commit -m "made with a bash script"
+git commit 
 git push
-git commit --amend
