@@ -6,8 +6,10 @@ This document provides the definition, usage, and examples of several commonly u
 ## ECHO
 **Definition**:
 Displays a line of text
+
 **Usage**:
 `echo` + `option` + `string`
+
 **Examples**:
 - Displays a message with backslash escapes:
   ```bash
@@ -23,8 +25,10 @@ Displays a line of text
 ## DATE
 **Definition**: 
 Displays or sets the system date and time.
+
 **Usage**: 
 `date` + `option`
+
 **Examples**:
 - Displays the current date and time:
   ```bash
@@ -40,8 +44,10 @@ Displays or sets the system date and time.
 ## FREE
 **Definition**: 
 Displays the amount of free and used memory in the system.
+
 **Usage**: 
 `free` + `option`
+
 **Examples**:
 - Displays memory usage in a human-readable format:
   ```bash
@@ -57,8 +63,10 @@ Displays the amount of free and used memory in the system.
 ## UNAME
 **Definition**: 
 Prints system information such as the operating system name, version, and other details.
+
 **Usage**: 
 `uname` + `option`
+
 **Examples**:
 - Displays all system information:
   ```bash
@@ -74,8 +82,10 @@ Prints system information such as the operating system name, version, and other 
 ## HISTORY
 **Definition**: 
 Shows a list of previously executed commands.
+
 **Usage**: 
 `history` + `option`
+
 **Examples**:
 - Displays command history:
   ```bash
@@ -90,8 +100,10 @@ Shows a list of previously executed commands.
 ## MAN
 **Definition**: 
 Displays the manual of a given command, showing detailed documentation.
+
 **Usage**: 
 `man` + `command`
+
 **Examples**:
 - Displays the manual for the `ls` command:
   ```bash
@@ -102,8 +114,10 @@ Displays the manual of a given command, showing detailed documentation.
 ## APT
 **Definition**: 
 A package management tool used to install, update, and remove software packages on Debian-based systems.
+
 **Usage**: 
 `apt` + `option` + `command`
+
 **Examples**:
 - Update the package list:
   ```bash
@@ -118,8 +132,10 @@ A package management tool used to install, update, and remove software packages 
 ## SNAP
 **Definition**: 
 Used to install and manage snap packages, which are self-contained software packages that work on various Linux distributions.
+
 **Usage**: 
 `snap` + `command`
+
 **Examples**:
 - Install a snap package:
   ```bash
@@ -130,8 +146,10 @@ Used to install and manage snap packages, which are self-contained software pack
 ## FLATPAK
 **Definition**: 
 Used to manage Flatpak packages, which are similar to snap packages and provide cross-distribution software deployment.
+
 **Usage**: 
 `flatpak` + `command`
+
 **Examples**:
 - Install a Flatpak package:
   ```bash
