@@ -20,9 +20,3 @@ Assignment: Lab 7
 
 ## Question 3.3
 ![q3.3](Q7.3.3.png)
-
-## Question 3.4
-![q3.4](Q7.3.4.png)
-
-## Challenge Question
-![q4](Q7.Challenge.png)
